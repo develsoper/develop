@@ -1,0 +1,13 @@
+{
+  "package" : "com.ac.remote.proapp",
+  "privacy" : "https://nimbusweb.me/share/7592241/hmrpgao07akqdi8uqn3d",
+  "ads_status" : true,
+  "banner_status" : true,
+  "banner_id" : "ca-app-pub-5698801274183057/4533432646",
+  "collapsible_banner_id": "ca-app-pub-5698801274183057/2181678612",
+  "appopen_id": "ca-app-pub-5698801274183057/9304040103",
+  "splash_intrestitial_status" : true,
+  "remotelist_intrestitial_status" : true,
+  "thankyou_intrestitial_status" : true,
+  "intrestitial_id" : "ca-app-pub-5698801274183057/7896881015"
+}
