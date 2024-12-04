@@ -2,33 +2,33 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>item</key>
-	<dict>
-		<key>items</key>
-		<array>
-			<dict>
-				<key>assets</key>
-				<array>
-					<dict>
-						<key>kind</key>
-						<string>software-package</string>
-						<key>url</key>
-						<string>https://iosdownload.hiwin-test-ph.com/ios-ipa/ios-native-mobile.ipa?OSSAccessKeyId=LTAI5tKuiAVptn8H6gPQ3aig&Expires=1733304470&Signature=eY3S%2FvO3CqqlI6ZeSrwrZvSWL78%3D</string>
-					</dict>
-				</array>
-				<key>metadata</key>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.unitye3d.test.on</string>
-					<key>bundle-version</key>
-					<string>2.1.1</string>
-					<key>kind</key>
-					<string>software</string>
-					<key>title</key>
-					<string>test</string>
-				</dict>
-			</dict>
-		</array>
-	</dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://iosdownload.hiwin-test-ph.com/ios-ipa/ios-native-mobile.ipa</string>
+               </dict> 
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.unitye3d.test.on</string>
+               <key>bundle-version</key>
+               <string>2.1.1</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>keoooet</string>
+               <key>title</key>
+               <string>bobobo</string>
+           </dict>
+       </dict>
+   </array>
 </dict>
 </plist>
+
